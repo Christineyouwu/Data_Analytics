@@ -40,3 +40,4 @@ Then complete a capstone project combining techniques learned throughout the pro
 
 - Project: [Predictive Analytics Capstone](https://github.com/Christineyouwu/Predictive_Analytics_projects_You_Wu/blob/master/7-Segmentation-and-Clustering/7.1-Combining-Predictive-Techniques.ipynb)
 
+# Predictive_Analytics_projects_You_Wu
